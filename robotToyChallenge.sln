@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "robotToyChallenge", "robotToyChallenge\robotToyChallenge.csproj", "{0874604D-B419-4EA2-B980-6BD757BA9AA1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProject", "TestProject\TestProject.csproj", "{F330F230-4070-4188-9351-E5EADA114C0A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0874604D-B419-4EA2-B980-6BD757BA9AA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0874604D-B419-4EA2-B980-6BD757BA9AA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0874604D-B419-4EA2-B980-6BD757BA9AA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0874604D-B419-4EA2-B980-6BD757BA9AA1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F330F230-4070-4188-9351-E5EADA114C0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F330F230-4070-4188-9351-E5EADA114C0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F330F230-4070-4188-9351-E5EADA114C0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F330F230-4070-4188-9351-E5EADA114C0A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
